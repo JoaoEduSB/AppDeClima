@@ -5,4 +5,4 @@
 <br>
 Prototipagem de um aplicativo de clima desenvolvido no Figma!
 
-[Clique para ver!](https://www.figma.com/design/ekDbpw11oZeUwgpD7EV8dB/Projeto-2?node-id=0%3A1&t=gPAyP7mnTwZvdo4N-1)
+[Clique para ver!](https://www.figma.com/design/xXzDYLNZsAJDiDtRCbAbeS/Projeto-3?node-id=0%3A1&t=rH03UAbFiJPDhHMo-1)
