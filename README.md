@@ -2,8 +2,6 @@
 
 ![AppDeClima](https://github.com/JoaoEduSB/AppDeClima/assets/146045770/42d83cfd-c72d-4ece-aece-a0eb6dc56431)
 
-# Meu primeiro projeto no Figma
-
 <br>
 Prototipagem do meu primeiro projeto desenvolvido no Figma!
 
